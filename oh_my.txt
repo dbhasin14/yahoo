@@ -1,1 +1,14 @@
 Darwin aalmiray.canoo.com 11.4.2 Darwin Kernel Version 11.4.2: Thu Aug 23 16:25:48 PDT 2012; root:xnu-1699.32.7~1/RELEASE_X86_64 x86_64
+
+------------------------------------------------------------
+  Griffon 1.3.0
+------------------------------------------------------------
+
+   Build: 12-May-2013 08:43 AM
+  Groovy: 2.1.3
+     Ant: 1.9.0
+   Slf4j: 1.7.3
+  Spring: 3.2.2.RELEASE
+     JVM: 1.6.0_45 (Apple Inc. 20.45-b01-451)
+      OS: Mac OS X 10.7.5 x86_64
+
